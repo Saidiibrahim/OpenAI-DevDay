@@ -21,6 +21,7 @@ matplotlib = "^3.8.4"
 instructor = "^1.2.0"
 pandas = "^2.2.2"
 aiohttp = "^3.9.5"
+resend = "^2.1.0"
 
 
 [tool.poetry.group.dev.dependencies]
